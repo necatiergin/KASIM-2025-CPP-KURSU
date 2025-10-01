@@ -25,8 +25,7 @@
 
 ## Kursla ilgili bağlantılar:
 
-&#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br><br>
-
+&#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br>
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/io29k-WHTL6d-sPVbHw6oA)
 
 <!---
