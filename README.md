@@ -7,7 +7,7 @@
 
 ✅ Kurs **17 Kasım 2025 Pazartesi** günü başlayacaktır.
 
-⏰ Dersler **azartesi ve Çarşamba 19:30 - 23:00** saatleri arasında **(Haftada 7 saat)** yapılacaktır.
+⏰ Dersler **Pazartesi ve Çarşamba 19:30 - 23:00** saatleri arasında **(Haftada 7 saat)** yapılacaktır.
 
 ⌛ Kursun toplam süresi **220** saattir.
 
