@@ -12,7 +12,7 @@
 ⌛ Kursun toplam süresi **220** saattir.
 
 ℹ️ Dersler Zoom platformu üzerinden gerçek zamanlı ve online olarak yapılmaktadır.<br> 
-Öğrenciler ders sırasında eğitmene soru sorabilirler.<br>
+Öğrenciler ders sırasında eğitmene soru sorabildikleri gibi sorularını kursun Telegram grubu üzerinden de eğitmene iletebilirler.<br>
 Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br>
 
 ✅ Programın toplam ücreti **45.000 TL**'dir. Peşin ödemede **40.000 TL**'dir.<br>
