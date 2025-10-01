@@ -1,4 +1,4 @@
-✅ Bu kurs katılımcıların öncelikle C++ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
+✅ Bu kurs katılımcıların öncelikle C++ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir. 
 
 ✅ Bu kurs **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.
 
@@ -19,9 +19,10 @@
 Öğrenci olanlar için kurs ücreti **40.000 TL**'dir. Peşin ödemede **35.000 TL**'dir. <br>
 **Kurs ücreti 5 taksit olarak ödenebilir.<br>**
 
-✅ Kursta Modern C++ anlatılmaktadır. C++11, C++14, C++17 ve C++20 standartları ile dile eklenen sentaks öğeleri ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır. C++ dilinin standart kütüphanesi ve bu kütüphanenin en önemli bileşeni olan STL ayrıntılı bir şekilde ele alınmaktadır.
+✅ Kursta Modern C++ anlatılmaktadır. C++11, C++14, C++17 ve C++20 standartları ile dile eklenen sentaks öğeleri, araçlar ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır. C++ dilinin standart kütüphanesi ve bu kütüphanenin en önemli bileşeni olan STL ayrıntılı bir şekilde ele alınmaktadır.
+Kurs süresince yüzlerce C++ kodu yazılacaktır. 
 
-⚠ Kursta C++ dilinin C'den aldığı genel sentaks ögeleri ve standart kütüphane bileşenleri anlatılmamaktadır. Kurs katılımcılarının temel düzeyde C diline hakim oldukları varsayılmaktadır.
+⚠ Kursta C++ dilinin C'den aldığı genel sentaks ögeleri, araçları ve standart kütüphane bileşenleri anlatılmamaktadır. Kurs katılımcılarının temel düzeyde C diline hakim oldukları varsayılmaktadır.
 
 ## Kursla ilgili bağlantılar:
 
