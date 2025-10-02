@@ -13,7 +13,7 @@
 
 ℹ️ Dersler Zoom platformu üzerinden gerçek zamanlı ve online olarak yapılmaktadır.<br> 
 Öğrenciler ders sırasında eğitmene soru sorabildikleri gibi sorularını kursun Telegram grubu üzerinden de eğitmene iletebilirler.<br>
-Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br>
+Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.
 
 ✅ Programın toplam ücreti **45.000 TL**'dir. Peşin ödemede **40.000 TL**'dir.<br>
 Öğrenci olanlar için kurs ücreti **40.000 TL**'dir. Peşin ödemede **35.000 TL**'dir. <br>
