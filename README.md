@@ -1,5 +1,5 @@
-✅ Bu kurs, katılımcıların C++ programlama dilini derinlemesine öğrenmelerini ve yazılım geliştirme süreçlerinde bu dili profesyonel düzeyde kullanma yetkinliği kazanmalarını amaçlamaktadır.
-Eğitim sürecinde C++ dilinin nesne yönelimli programlama (OOP), türden bağımsız programlama _(generic programming)_ ve fonksiyonel programlama _(functional programming_) gibi farklı programlama paradigmalarındaki kullanımı kapsamlı bir şekilde ele alınmaktadır.
+✅ Bu kurs, katılımcıların **C++** programlama dilini yalnızca öğrenmelerini değil, aynı zamanda profesyonel düzeyde kullanabilmelerini sağlayacak sağlam bir teknik altyapı kazanmalarını hedeflemektedir.
+Eğitim boyunca C++’ın üç temel programlama paradigmasındaki kullanımı — nesne yönelimli programlama _(OOP)_, türden bağımsız programlama _(generic programming)_ ve fonksiyonel programlama _(functional programming)_ — kapsamlı ve uygulamalı olarak ele alınacaktır.
 
 ✅ Bu kurs **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.
 
