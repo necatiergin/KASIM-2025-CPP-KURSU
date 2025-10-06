@@ -23,6 +23,7 @@
 Kurs süresince yüzlerce C++ kodu yazılacaktır. 
 
 ⚠ Kursta C++ dilinin C'den aldığı genel sentaks ögeleri, araçları ve standart kütüphane bileşenleri anlatılmamaktadır. Kurs katılımcılarının temel düzeyde C diline hakim oldukları varsayılmaktadır.
+⚠ Programa uygunluğunuz konusunda şüpheleriniz varsa **Necati Ergin** ile görüşebilirsiniz.
 
 ## Kursla ilgili bağlantılar:
 
