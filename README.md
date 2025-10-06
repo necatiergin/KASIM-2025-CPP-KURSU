@@ -1,4 +1,5 @@
-✅ Bu kurs katılımcıların öncelikle C++ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir. 
+✅ Bu kurs, katılımcıların C++ programlama dilini derinlemesine öğrenmelerini ve yazılım geliştirme süreçlerinde bu dili profesyonel düzeyde kullanma yetkinliği kazanmalarını amaçlamaktadır.
+Eğitim sürecinde C++ dilinin nesne yönelimli programlama (OOP), türden bağımsız programlama _(generic programming)_ ve fonksiyonel programlama _(functional programming_) gibi farklı programlama paradigmalarındaki kullanımı kapsamlı bir şekilde ele alınmaktadır.
 
 ✅ Bu kurs **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.
 
@@ -20,10 +21,10 @@
 **Kurs ücreti 5 taksit olarak ödenebilir.<br>**
 
 ✅ Kursta Modern C++ anlatılmaktadır. C++11, C++14, C++17 ve C++20 standartları ile dile eklenen sentaks öğeleri, araçlar ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır. C++ dilinin standart kütüphanesi ve bu kütüphanenin en önemli bileşeni olan STL ayrıntılı bir şekilde ele alınmaktadır.
-Kurs süresince yüzlerce C++ kodu yazılacaktır. 
+Kurs boyunca yüzlerce C++ kodu yazılarak dilin tüm incelikleri uygulamalı olarak öğretilecektir.
 
-⚠ Kursta C++ dilinin C'den aldığı genel sentaks ögeleri, araçları ve standart kütüphane bileşenleri anlatılmamaktadır. Kurs katılımcılarının temel düzeyde C diline hakim oldukları varsayılmaktadır.<br>
-⚠ Programa uygunluğunuz konusunda şüpheleriniz varsa **Necati Ergin** ile görüşebilirsiniz.
+⚠ Bu kurs, C++’ın C dilinden devraldığı temel sözdizimi ve standart kütüphane bileşenlerini içermemektedir. Katılımcıların temel düzeyde C bilgisine sahip olduğu varsayılmaktadır.
+Kendi seviyenizin programa uygun olup olmadığından emin değilseniz, **Necati Ergin** ile görüşerek durumunuzu değerlendirebilirsiniz.
 
 ## Kursla ilgili bağlantılar:
 
