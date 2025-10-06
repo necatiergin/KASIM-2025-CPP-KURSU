@@ -18,8 +18,8 @@ Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca ku
 Kaçırılan veya tekrar izlenmek istenen ders kayıtları, kurs sistemimiz üzerinden öğrencilere sunulmaktadır.
 
 💰 Ücretlendirme:<br>
-Genel katılım ücreti: **45.000 TL → Peşin ödemede 40.000 TL**
-Öğrenci indirimi: **40.000 TL → Peşin ödemede 35.000 TL**
+Genel katılım ücreti: **45.000 TL → Peşin ödemede 40.000 TL**<br>
+Öğrenci indirimi: **40.000 TL → Peşin ödemede 35.000 TL**<br>
 Ücret 5 taksite bölünebilir.
 
 ✅ Kursta Modern C++ anlatılmaktadır.<br>
