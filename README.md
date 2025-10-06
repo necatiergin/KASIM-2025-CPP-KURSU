@@ -1,8 +1,6 @@
 ✅ Bu kurs, katılımcıların C++ programlama dilini yalnızca öğrenmelerini değil, aynı zamanda profesyonel düzeyde kullanabilmelerini sağlayacak sağlam bir teknik altyapı kazanmalarını hedeflemektedir.
 Eğitim boyunca C++’ın üç temel programlama paradigmasındaki kullanımı — nesne yönelimli programlama _(OOP)_, türden bağımsız programlama _(generic programming)_ ve fonksiyonel programlama _(functional programming)_ — kapsamlı ve uygulamalı olarak ele alınmaktadır.
 
-✅ Eğitim **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.
-
 👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)
 **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
 
@@ -29,6 +27,8 @@ C++’ın kalbini oluşturan STL _(Standard Template Library)_ kapsamlı olarak 
 ⚠️ Bu kurs, C++’ın C dilinden miras aldığı temel sözdizimi ve standart kütüphane yapısını kapsamamaktadır.
 Katılımcıların temel düzeyde C bilgisine sahip oldukları varsayılmaktadır.
 Eğer seviyenizin programa uygun olup olmadığından emin değilseniz, **Necati Ergin** ile iletişime geçerek kısa bir değerlendirme alabilirsiniz.
+
+✅ Eğitim **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.
 
 ## Kursla ilgili bağlantılar:
 
