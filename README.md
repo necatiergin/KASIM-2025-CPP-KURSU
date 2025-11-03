@@ -40,4 +40,3 @@ Eğer seviyenizin programa uygun olup olmadığından emin değilseniz, **Necati
 <!---
 &#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_tanitimi.md)<br>
 --->
-**
